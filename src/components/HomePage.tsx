@@ -22,21 +22,21 @@ const HomePage: React.FC = () => {
       >
         <div>
           <img
-            src="https://steptodown.com/istock-downloader/images/steptodown.com435213.jpg"
+            src="https://media.istockphoto.com/id/1125137615/photo/composition-with-wooden-letters-and-a-cup-of-tea.jpg?s=612x612&w=0&k=20&c=ObHM6464kUPus2T1nHTW6Ib_O9eNUn-H8mv0e26J0zQ="
             alt="Homemade Product 1"
             className="w-full h-screen object-cover"
           />
         </div>
         <div>
           <img
-            src="https://steptodown.com/istock-downloader/images/steptodown.com825878.jpg"
+            src="https://media.istockphoto.com/id/1455104213/vector/superhero-or-superhero-power-kit.jpg?s=612x612&w=0&k=20&c=IzL48ZEdFosLYfBDAGcwAKAmnUIkTvSYQ5PCJ61zLrU="
             alt="Homemade Product 2"
             className="w-full h-screen object-cover"
           />
         </div>
         <div>
           <img
-            src="https://steptodown.com/istock-downloader/images/steptodown.com499001.jpg"
+            src="https://media.istockphoto.com/id/1083299840/photo/sale-stand-consisting-of-local-organic-products-eggs-honey-vinegar-salca-butter-dry-eggplant.jpg?s=612x612&w=0&k=20&c=0Q823D2gArUubelWSJs44kH-E61xGgvLrF8m8xTiUuk="
             alt="Homemade Product 3"
             className="w-full h-screen object-cover"
           />
