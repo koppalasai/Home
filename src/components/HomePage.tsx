@@ -45,15 +45,15 @@ const HomePage: React.FC = () => {
 
       {/* Call to Action */}
       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center">
-        <h1 className="text-5xl font-bold text-white drop-shadow-lg">
+        <h1 className="text-5xl font-bold text-blue-600 dark:text-sky-400 drop-shadow-lg">
           Welcome to Our Homemade Products Store!
         </h1>
-        <p className="text-xl text-white mt-4 drop-shadow-lg">
+        <p className="text-xl text-black mt-4 drop-shadow-lg">
           Discover the finest homemade products crafted with love and care.
         </p>
         <a
           href="/shop"
-          className="mt-6 inline-block px-8 py-4 text-lg font-semibold text-white bg-blue-600 rounded-lg shadow-md hover:bg-blue-700 transition-all"
+          className="h-14 bg-linear-65 from-purple-500 to-pink-500 mt-6 inline-block px-8 py-4 text-lg font-semibold text-white bg-blue-600 rounded-lg shadow-md hover:bg-blue-700 transition-all"
         >
           Explore Products
         </a>
